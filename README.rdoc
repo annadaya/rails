@@ -1,0 +1,6 @@
+1) Create a new rails application and call it alpha-blog
+2) Ensure you can run the server and preview the applications
+3) pages controller -instead of naming it welcome, name it pages 
+4) Ensure you have appropriate routes
+5) Create a homepage and about page and make sure to link them
+6) And on the pages put a better design, the html you just created instead pf just plain home and about 
